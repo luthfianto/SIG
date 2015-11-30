@@ -1,0 +1,332 @@
+[
+  {
+    "tahun":2013,
+    "kode_provinsi":1100,
+    "nama_provinsi":"Prov. Nanggroe Aceh Darussalam",
+    "luas_panen":899,
+    "produktivitas":10.58,
+    "produksi":951,
+    "latitude":5.55,
+    "longitude":95.31667
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1200,
+    "nama_provinsi":"Prov. Sumatera Utara",
+    "luas_panen":2130,
+    "produktivitas":11,
+    "produksi":2344,
+    "latitude":3.583333,
+    "longitude":98.66666
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1300,
+    "nama_provinsi":"Prov. Sumatera Barat",
+    "luas_panen":608,
+    "produktivitas":12.38,
+    "produksi":753,
+    "latitude":-0.95,
+    "longitude":100.3531
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1400,
+    "nama_provinsi":"Prov. Riau",
+    "luas_panen":585,
+    "produktivitas":10.58,
+    "produksi":619,
+    "latitude":0.4816667,
+    "longitude":101.4686
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1500,
+    "nama_provinsi":"Prov. Jambi",
+    "luas_panen":230,
+    "produktivitas":11.39,
+    "produksi":262,
+    "latitude":-1.589167,
+    "longitude":103.61
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1600,
+    "nama_provinsi":"Prov. Sumatera Selatan",
+    "luas_panen":1332,
+    "produktivitas":13.67,
+    "produksi":1821,
+    "latitude":-2.990833,
+    "longitude":104.7567
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1700,
+    "nama_provinsi":"Prov. Bengkulu",
+    "luas_panen":1384,
+    "produktivitas":9.91,
+    "produksi":1371,
+    "latitude":-3.795556,
+    "longitude":102.2592
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1800,
+    "nama_provinsi":"Prov. Lampung",
+    "luas_panen":2941,
+    "produktivitas":8.99,
+    "produksi":2643,
+    "latitude":-5.429722,
+    "longitude":105.2625
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":1900,
+    "nama_provinsi":"Prov. Kepulauan Bangka Belitung",
+    "luas_panen":0,
+    "produktivitas":0,
+    "produksi":0,
+    "latitude":-2.1,
+    "longitude":106.1
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":2100,
+    "nama_provinsi":"Prov. Kepulauan Riau",
+    "luas_panen":0,
+    "produktivitas":0,
+    "produksi":0,
+    "latitude":1.083333,
+    "longitude":104.4833
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":3100,
+    "nama_provinsi":"Prov. DKI Jakarta",
+    "luas_panen":0,
+    "produktivitas":0,
+    "produksi":0,
+    "latitude":-6.183333,
+    "longitude":106.8333
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":3200,
+    "nama_provinsi":"Prov. Jawa Barat",
+    "luas_panen":9121,
+    "produktivitas":12.06,
+    "produksi":11002,
+    "latitude":-6.914722,
+    "longitude":107.6097
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":3300,
+    "nama_provinsi":"Prov. Jawa Tengah",
+    "luas_panen":57941,
+    "produktivitas":11.09,
+    "produksi":64277,
+    "latitude":-6.966667,
+    "longitude":110.4167
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":3400,
+    "nama_provinsi":"Prov. D I Yogyakarta",
+    "luas_panen":552,
+    "produktivitas":5.76,
+    "produksi":318,
+    "latitude":-7.801389,
+    "longitude":110.3644
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":3500,
+    "nama_provinsi":"Prov. Jawa Timur",
+    "luas_panen":48845,
+    "produktivitas":11.81,
+    "produksi":57686,
+    "latitude":-7.266667,
+    "longitude":112.7167
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":3600,
+    "nama_provinsi":"Prov. Banten",
+    "luas_panen":822,
+    "produktivitas":8.18,
+    "produksi":672,
+    "latitude":-6.12,
+    "longitude":106.1503
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":5100,
+    "nama_provinsi":"Prov. Bali",
+    "luas_panen":1129,
+    "produktivitas":10.5,
+    "produksi":1186,
+    "latitude":-8.65,
+    "longitude":115.2167
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":5200,
+    "nama_provinsi":"Prov. Nusa Tenggara Barat",
+    "luas_panen":19374,
+    "produktivitas":11.4,
+    "produksi":22079,
+    "latitude":-8.583333,
+    "longitude":116.1167
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":5300,
+    "nama_provinsi":"Prov. Nusa Tenggara Timur",
+    "luas_panen":11869,
+    "produktivitas":8.54,
+    "produksi":10139,
+    "latitude":-10.18333,
+    "longitude":123.5833
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":6100,
+    "nama_provinsi":"Prov. Kalimantan Barat",
+    "luas_panen":733,
+    "produktivitas":7.54,
+    "produksi":553,
+    "latitude":-0.0166667,
+    "longitude":109.3333
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":6200,
+    "nama_provinsi":"Prov. Kalimantan Tengah",
+    "luas_panen":129,
+    "produktivitas":8.22,
+    "produksi":106,
+    "latitude":-2.21,
+    "longitude":113.92
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":6300,
+    "nama_provinsi":"Prov. Kalimantan Selatan",
+    "luas_panen":703,
+    "produktivitas":10.77,
+    "produksi":757,
+    "latitude":-3.314444,
+    "longitude":114.5925
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":6400,
+    "nama_provinsi":"Prov. Kalimantan Timur",
+    "luas_panen":414,
+    "produktivitas":10.6,
+    "produksi":439,
+    "latitude":-0.5022222,
+    "longitude":117.1536
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":7100,
+    "nama_provinsi":"Prov. Sulawesi Utara",
+    "luas_panen":1218,
+    "produktivitas":12.64,
+    "produksi":1540,
+    "latitude":1.493056,
+    "longitude":124.8414
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":7200,
+    "nama_provinsi":"Prov. Sulawesi Tengah",
+    "luas_panen":1009,
+    "produktivitas":8.32,
+    "produksi":839,
+    "latitude":-0.9,
+    "longitude":119.8333
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":7300,
+    "nama_provinsi":"Prov. Sulawesi Selatan",
+    "luas_panen":14226,
+    "produktivitas":12.89,
+    "produksi":18341,
+    "latitude":-5.133333,
+    "longitude":119.4167
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":7400,
+    "nama_provinsi":"Prov. Sulawesi Tenggara",
+    "luas_panen":1342,
+    "produktivitas":8.07,
+    "produksi":1083,
+    "latitude":-3.9675,
+    "longitude":122.5947
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":7500,
+    "nama_provinsi":"Prov. Gorontalo",
+    "luas_panen":139,
+    "produktivitas":13.09,
+    "produksi":182,
+    "latitude":0.5333334,
+    "longitude":123.0667
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":7600,
+    "nama_provinsi":"Prov. Sulawesi Barat",
+    "luas_panen":444,
+    "produktivitas":13.63,
+    "produksi":605,
+    "latitude":-2.668611,
+    "longitude":118.8622
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":8100,
+    "nama_provinsi":"Prov. Maluku",
+    "luas_panen":841,
+    "produktivitas":10.57,
+    "produksi":889,
+    "latitude":-3.7,
+    "longitude":128.1667
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":8200,
+    "nama_provinsi":"Prov. Maluku Utara",
+    "luas_panen":278,
+    "produktivitas":11.65,
+    "produksi":324,
+    "latitude":0.7833334,
+    "longitude":127.3667
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":9100,
+    "nama_provinsi":"Prov. Papua Barat",
+    "luas_panen":171,
+    "produktivitas":10.82,
+    "produksi":185,
+    "latitude":-0.8666667,
+    "longitude":134.0833
+  },
+  {
+    "tahun":2013,
+    "kode_provinsi":9400,
+    "nama_provinsi":"Prov. Papua",
+    "luas_panen":649,
+    "produktivitas":10.51,
+    "produksi":682,
+    "latitude":-2.533056,
+    "longitude":140.7169
+  }
+]
