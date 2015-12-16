@@ -3,7 +3,7 @@
 <head>
   <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
 
-  <title>Query Realtime SF Bus Locations With GeoFire 2.0</title>
+  <title>SIG Kacang Hijau</title>
 
   <!-- STYLESHEETS -->
   <link href="css/animate.min.css" rel="stylesheet">
@@ -23,21 +23,22 @@
       SIG Kacang Hijau
     </header>
 
-    <section class="content">
-      <h3>Pencarian</h3>
+    <section class="content">    
       <p>
-        <input></input>
-        <button>Submit</button>
+        {{message}} <br/>
+        <input v-model="nama" id="nama"></input>
+        <input v-model="latitude" id="latitude"></input>
+        <input v-model="longitude" id="longitude"></input>
+        <button v-on:click="addLocation">Submit</button>
+
+        <ul>
+          <li v-for="location in locations">
+            <span>{{ location.nama_provinsi }}</span>
+            <button v-on:click="removeLocation($index)">X</button>
+          </li>
+        </ul>
       </p>
     </section>
-
-<!--     <section class="content">
-      <h3>Tambah tempat</h3>
-      <p>
-        Lat &nbsp;<input></input><br><br>
-        Lon &nbsp;<input></input><br>
-      </p>
-    </section> -->
   </article>
 
 
@@ -56,6 +57,9 @@
 
   <!-- Lo-Dash -->
   <script src="js/vendor/lodash.min.js"></script>
+
+  <!-- vue -->
+  <script src="js/vendor/vue.min.js"></script>
 
   <!-- Custom JavaScript -->
   <script src="js/sig.js"></script>
