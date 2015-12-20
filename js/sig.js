@@ -46,7 +46,7 @@ function initializeMap() {
 var sidebar = new Vue({
   el: '#sidebar',
   data: {
-    message: '',
+    message: 'Geser pin hitam untuk tambah lokasi!',
     locations: []
   },
   methods: {

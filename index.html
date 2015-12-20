@@ -25,11 +25,11 @@
 
     <section class="content">    
       <p>
-        {{message}} <br/>
-        <input v-model="nama" id="nama"></input>
-        <input id="latitude"></input>
-        <input id="longitude"></input>
-        <button v-on:click="addLocation">Submit</button>
+        {{message}} <br/><br/>
+        <input v-model="nama" id="nama" placeholder="Nama Lokasi"></input>
+        <input id="latitude"  placeholder="Latitude"></input>
+        <input id="longitude" placeholder="Longitude"></input>
+        <button v-on:click="addLocation">Tambah</button>
 
         <ul>
           <li v-for="location in locations">
